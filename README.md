@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👩‍💻📲💻👋➡️, I'm Chaimae Bouassab</h1>
+<h1 align="center"> 👩‍💻📲💻👋➡️Hi, I'm Chaimae Bouassab</h1>
 <h3 align="center">"As a 20-year-old student in my third year of a Bachelor's degree in Computer Application Development at FSTT, I possess a solid mastery of several programming languages, including Java, C++, Python, and C. I also have a strong foundation in front-end and back-end development with React.js and Node.js, complemented by a good knowledge of JavaScript, as well as a deep understanding of HTML and CSS. 
   My familiarity with relational databases like MySQL, proficiency in Git-Hub, and experience with Linux further bolster my technical expertise.
   However, beyond the technical aspects, my unwavering passion for programming and mathematical logic serves as the driving force behind my commitment, seriousness, and ability to achieve my goals.
