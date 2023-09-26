@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bouassab83963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bouassab83963" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaimae bouassab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouassab" height="30" width="40" /></a>
-<a href="https://kaggle.com/bouassab chaimae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bouassab chaimae" height="30" width="40" /></a>
-<a href="https://fb.com/chaimae bouassab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chaimae bouassab" height="30" width="40" /></a>
-<a href="https://instagram.com/chaimae-bouassab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaimae-bouassab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chaimae-bouassab-6124b2258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouassab" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bouassab chaimae" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chaimae.bouassab.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chaimae bouassab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chaimae_bouassab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaimae-bouassab" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shaimaabouassab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaimaabouassab" height="30" width="40" /></a>
 </p>
 
