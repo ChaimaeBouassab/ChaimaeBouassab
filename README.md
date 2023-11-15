@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **and embarking on a journey of continuous growth in the world of web development with a focus on Laravel and PHP.**
 
-- 💬 Ask me about **Python because I am Passionate about it and its powerful data structures libraries. Whether it's working with lists, dictionaries, or diving into libraries like NumPy, Pandas, or TensorFlow, I find beauty in the versatility and efficiency they bring to the world of programming.**
+- 💬 Ask me about **Python because I am Passionate about it and its powerful data structures libraries. Whether it's working with lists, dictionaries, or diving into libraries like NumPy or Pandas, I find beauty in the versatility and efficiency they bring to the world of programming.**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/chaimae.bouassab.7?mibextid=ZbWKwL" target="_blank">Facebook Profile</a>
