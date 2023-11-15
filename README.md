@@ -1,14 +1,13 @@
 <h1 align="center"> 👩‍💻📲💻👋➡️Hi, I'm Chaimae Bouassab</h1>
-<h3 align="center">As a 20-years-old student in my third year of a Bachelor's degree in Computer Application Development at FSTT, I possess a solid mastery of several programming languages, including Java, C++, Python, and C. I also have a strong foundation in front-end development with React.js , complemented by a good knowledge of JavaScript. </h3>
+<h3 align="center">As a 20-year-old student pursuing a Bachelor's degree in Computer Application Development at the Faculty of Sciences and Technology in Tangier, I have developed a strong proficiency in various programming languages, such as Java, C++, Python, and C. Additionally, I have a solid understanding of front-end development with React.js and a good grasp of JavaScript. </h3>
 
- <h3> I believe that my enthusiasm for the world of web development fuels my determination to excel in this field.
-  As an enthusiastic learner in the field of computer science, I have discovered a profound passion for the realms of Artificial Intelligence (AI) and Data Science.
-  My journey into this captivating domain began during my studies in  Statistic Engineering, where I delved deep into the world of data analysis, Python programming, and probabilities.</h3>
+ <h3>My enthusiasm for web development drives my determination to excel in this field.
+ My passion for computer science has led me to explore the fascinating realms of Artificial Intelligence (AI) and Data Science. This journey began during my studies in Statistic Engineering, where I delved into the world of data analysis, Python programming, and probabilities.</h3>
  
 
-- 🌱 I’m currently learning **and embarking on a journey of continuous growth in the world of web development with a focus on Laravel and PHP.**
+-🌱 I am currently learning and embracing a journey of continuous growth in the realm of web development, with a primary focus on Laravel and PHP, showcasing my backend development capacities. Additionally, I'm eager to delve into Node.js to broaden my skill set and enhance my capabilities. Exciting times ahead! 💻✨
 
-- 💬 Ask me about **Python because I am Passionate about it and its powerful data structures libraries. Whether it's working with lists, dictionaries, or diving into libraries like NumPy or Pandas, I find beauty in the versatility and efficiency they bring to the world of programming.**
+-💬 Feel free to ask me about Python, as I'm truly passionate about it and its robust data structures libraries. **As a girl who codes and conquers challenges in the exciting realm of software engineering, I find immense joy in working with Python's versatile features.** Whether it's manipulating lists and dictionaries or immersing myself in powerful libraries like NumPy and Pandas, **I see beauty in the efficiency they bring to the world of programming.** Let's explore the Python universe together! 💻✨
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/chaimae.bouassab.7?mibextid=ZbWKwL" target="_blank">Facebook Profile</a>
