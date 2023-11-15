@@ -6,7 +6,7 @@
   My journey into this captivating domain began during my studies in  Statistic Engineering, where I delved deep into the world of data analysis, Python programming, and probabilities.</h3>
  <h3> The art of transforming raw data into actionable insights resonated with me, igniting a strong curiosity for the possibilities AI and data science offer. My GitHub repositories reflect my dedication to exploring this ever-evolving landscape, where I'm constantly experimenting with machine learning models, data visualization techniques, and data-driven solutions.</h3>
 <h3>  I relish the challenge of tackling complex problems, leveraging AI to uncover hidden patterns, and contributing to the broader data science community.
-  Join me in this exciting voyage as we embark on a data-driven journey towards innovation and discovery"</h3>
+  Join me in this exciting voyage as we embark on a data-driven journey towards innovation and discovery</h3>
 
 - 🌱 I’m currently learning **and embarking on a journey of continuous growth in the world of web development with a focus on Laravel and PHP.**
 
