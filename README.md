@@ -7,7 +7,7 @@
 
 -🌱 I am currently learning and embracing a journey of continuous growth in the realm of web development, with a primary focus on Laravel and PHP, showcasing my backend development capacities. Additionally, I'm eager to delve into Node.js to broaden my skill set and enhance my capabilities. Exciting times ahead! 💻✨
 
--💬 Feel free to ask me about Python, as I'm truly passionate about it and its robust data structures libraries. **As a girl who codes and conquers challenges in the exciting realm of software engineering, I find immense joy in working with Python's versatile features.** Whether it's manipulating lists and dictionaries or immersing myself in powerful libraries like NumPy and Pandas, **I see beauty in the efficiency they bring to the world of programming.** Let's explore the Python universe together! 💻✨
+-💬 Feel free to ask me about Python, as I'm truly passionate about it and its robust data structures libraries. As a girl who codes and conquers challenges in the exciting realm of software engineering, I find immense joy in working with Python's versatile features, whether it's manipulating lists and dictionaries, immersing myself in powerful libraries like NumPy and Pandas, or diving into the intricacies of object-oriented programming. Let's explore the Python universe together! 💻✨
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/chaimae.bouassab.7?mibextid=ZbWKwL" target="_blank">Facebook Profile</a>
