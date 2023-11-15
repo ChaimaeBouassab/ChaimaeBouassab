@@ -1,12 +1,10 @@
 <h1 align="center"> 👩‍💻📲💻👋➡️Hi, I'm Chaimae Bouassab</h1>
-<h3 align="center">As a 20-year-old student in my third year of a Bachelor's degree in Computer Application Development at FSTT, I possess a solid mastery of several programming languages, including Java, C++, Python, and C. I also have a strong foundation in front-end and back-end development with React.js and Node.js, complemented by a good knowledge of JavaScript, as well as a deep understanding of HTML and CSS. </h3>
+<h3 align="center">As a 20-years-old student in my third year of a Bachelor's degree in Computer Application Development at FSTT, I possess a solid mastery of several programming languages, including Java, C++, Python, and C. I also have a strong foundation in front-end development with React.js , complemented by a good knowledge of JavaScript. </h3>
 
  <h3> I believe that my enthusiasm for the world of web development fuels my determination to excel in this field.
   As an enthusiastic learner in the field of computer science, I have discovered a profound passion for the realms of Artificial Intelligence (AI) and Data Science.
   My journey into this captivating domain began during my studies in  Statistic Engineering, where I delved deep into the world of data analysis, Python programming, and probabilities.</h3>
- <h3> The art of transforming raw data into actionable insights resonated with me, igniting a strong curiosity for the possibilities AI and data science offer. My GitHub repositories reflect my dedication to exploring this ever-evolving landscape, where I'm constantly experimenting with machine learning models, data visualization techniques, and data-driven solutions.</h3>
-<h3>  I relish the challenge of tackling complex problems, leveraging AI to uncover hidden patterns, and contributing to the broader data science community.
-  Join me in this exciting voyage as we embark on a data-driven journey towards innovation and discovery</h3>
+ 
 
 - 🌱 I’m currently learning **and embarking on a journey of continuous growth in the world of web development with a focus on Laravel and PHP.**
 
