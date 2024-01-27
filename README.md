@@ -1,13 +1,7 @@
 <h1 align="center"> 👩‍💻📲💻👋➡️Hi, I'm Chaimae Bouassab</h1>
 <h3 align="center">As a 20-year-old student pursuing a Bachelor's degree in Computer Application Development at the Faculty of Sciences and Technology in Tangier, I have developed my skills in various programming languages, such as Java, C++, Python, and C. Additionally, I have a solid understanding of front-end development with React.js and a good grasp of JavaScript. </h3>
-
- <h3>My enthusiasm for web development drives my determination to excel in this field.
- My passion for computer science has led me to explore the fascinating realms of Artificial Intelligence (AI) and Data Science. This journey began during my studies in Statistic Engineering, where I delved into the world of data analysis, Python programming, and probabilities.</h3>
  
-
--🌱 I am currently learning and embracing a journey of continuous growth in the realm of web development, with a primary focus on Laravel and PHP, showcasing my backend development capacities. Additionally, I'm eager to delve into Node.js to broaden my skill set and enhance my capabilities. Exciting times ahead! 💻✨
-
--💬 Feel free to ask me about Python, as I'm truly passionate about it and its robust data structures libraries. As a girl who codes and conquers challenges in the exciting realm of software engineering, I find immense joy in working with Python's versatile features, whether it's manipulating lists and dictionaries, immersing myself in powerful libraries like NumPy and Pandas, or diving into the intricacies of object-oriented programming. Let's explore the Python universe together! 💻✨
+-🌱 I am currently learning and embracing a journey of continuous growth in the realm of web development, with a primary focus on Laravel and Node js, showcasing my backend development capacities.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/chaimae.bouassab.7?mibextid=ZbWKwL" target="_blank">Facebook Profile</a>
