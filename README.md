@@ -1,4 +1,4 @@
-<h1 align="center"> 👩‍💻📲💻👋➡️Hi, I'm Chaimae Bouassab</h1>
+<h1 align="center"> 👩‍💻Hi, I'm Chaimae Bouassab</h1>
 <h3 align="center">As a 20-year-old student pursuing a Bachelor's degree in Computer Application Development at the Faculty of Sciences and Technology in Tangier, I have developed my skills in various programming languages, such as Java, C++, Python, and C. Additionally, I have a solid understanding of front-end development with React.js and a good grasp of JavaScript. </h3>
  
 -🌱 I am currently learning and embracing a journey of continuous growth in the realm of web development, with a primary focus on Laravel and Node js, showcasing my backend development capacities.
